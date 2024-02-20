@@ -1,8 +1,9 @@
 <!-- ### Hi there 👋 -->
 - Hello 👋, I'm Jean-Pierre
 - 😐 I'm an IT Support Engineer, System and Web Administrator and Cloud Engineer
-- 🌱 I’m currently learning Django Web Development
-- 📖 Google, Compia and AWS certified, I love learning new technologies
+- 🌱 I’m currently learning System administration and Django Web Development
+- 📖 Google, Compia and AWS certified, I love learning new technologies and
+  staying updated
 - 📫 You can reach out to me via email or on LinkedIn
 <!--
 **jeanpierrecaleb/jeanpierrecaleb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
