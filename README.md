@@ -1,6 +1,6 @@
 <!-- ### Hi there 👋 -->
 - Hello 👋, I'm Jean-Pierre
-- 😐 I'm an IT Support Engineer, System and Web Administrator and Cloud Engineer
+- 😐 I'm an IT Support Engineer and Cloud Engineer
 - 🌱 I’m currently learning System administration and Django Web Development
 - 📖 Google, Compia and AWS certified, I love learning new technologies and
   staying updated
