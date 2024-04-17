@@ -29,15 +29,18 @@
 
 ## Skills
 - **Operating Systems**: Linux (Ubuntu, Debian), Windows Server, MacOS, Android
-- **Web Server Administration**: Apache, MySQL, PostgreSQL, Docker
-- **Networking**: TCP/IP, DNS, DHCP, VPN, VLAN
+- **Web Server and databases**: Apache, MySQL, PostgreSQL, Docker
+- **Networking**: TCP/IP, DNS, DHCP, Powershell, Directory, Active Directory, Subnetting
+- **Programming Language** : HTML, CSS, PHP, Laravel, Python
+- **Softwares** : Microsoft Office, Latex, VirtualBox, Vmware, Packet Tracer, TeamViewer, Putty, Git
   
 ## Certifications
 - Comptia A+
 - Google IT Support Professional
+- and many more ...
 
 ## Contact
-Feel free to reach out to me via email at john.doe@example.com or connect with me on [LinkedIn](https://www.linkedin.com/in/jeanpierregbedjissi)
+Feel free to reach out to me via email or connect with me on [LinkedIn](https://www.linkedin.com/in/jeanpierregbedjissi)
 Let's connect and discuss how I can contribute to your projects or organization !
 
 
