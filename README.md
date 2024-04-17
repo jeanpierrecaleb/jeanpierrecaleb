@@ -1,5 +1,5 @@
 <!-- ### Hi there 👋 -->
-- Hello 👋, I'm Jean-Pierre
+# Hello 👋, I'm Jean-Pierre
 - 😐 Welcome to my portfolio! I am a passionate an IT Support Engineer and system administrator with expertise in managing and optimizing IT infrastructure.
 - My experience includes a wide range of systems and technologies, from Windows and Linux server administration to network configuration and web administration.
 - 🌱 I’m currently learning Cloud Engineering and Web Development
