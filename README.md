@@ -14,7 +14,7 @@
 ### Infrastructure and Cloud
 - **Project 3**: Developed Terraform script for automating server provisioning and configuration management tasks.
 - **Project 4** : A simple Chat bot using EC2 and DynamoDB on AWS
-- 
+
 ### Web development
 **Project 5**: A corpus management system for machine translation
 **Project 6**: An equipment management platform
