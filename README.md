@@ -16,8 +16,8 @@
 - **Project 4** : A simple Chat bot using EC2 and DynamoDB on AWS
 
 ### Web development
-**Project 5**: A corpus management system for machine translation
-**Project 6**: An equipment management platform
+- **Project 5**: A corpus management system for machine translation
+- **Project 6**: An equipment management platform
 
 
 <!--
