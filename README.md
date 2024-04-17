@@ -1,9 +1,9 @@
 <!-- ### Hi there 👋 -->
 - Hello 👋, I'm Jean-Pierre
-- 😐 Welcome to my portfolio! I am a passionate an IT Support Engineer and system administrator with expertise in managing and optimizing IT infrastructure. My experience includes a wide range of systems and technologies, from Windows and Linux server administration to network configuration and cloud.
+- 😐 Welcome to my portfolio! I am a passionate an IT Support Engineer and system administrator with expertise in managing and optimizing IT infrastructure.
+- My experience includes a wide range of systems and technologies, from Windows and Linux server administration to network configuration and web administration.
 - 🌱 I’m currently learning Cloud Engineering and Web Development
-- 📖 Google, Compia and AWS certified, I love learning new technologies and
-  staying updated
+- 📖 Google, Compia and AWS certified, I love learning new technologies and staying updated
 - 📫 You can reach out to me via email or LinkedIn
 
 ## Projects
