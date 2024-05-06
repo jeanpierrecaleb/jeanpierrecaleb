@@ -37,7 +37,9 @@
 ## Certifications
 - Comptia A+
 - Google IT Support Professional
-- and many more ...
+- CCNA1 Course completion
+- Systems Administration from Digital Nigeria
+- and many more on my [LinkedIn](https://www.linkedin.com/in/jeanpierregbedjissi) profile
 
 ## Contact
 Feel free to reach out to me via email or connect with me on [LinkedIn](https://www.linkedin.com/in/jeanpierregbedjissi)
