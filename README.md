@@ -12,9 +12,9 @@
 - **Project 2**: Implemented [automated backup solutions](https://github.com/jeanpierrecaleb/my-lab-projects/tree/main/linux-rsync-cron-for-backup) using rsync and cron jobs to ensure data integrity and disaster recovery.
 
 ### Infrastructure and Cloud
-- **Project 3**: Developed a [Terraform script](https://github.com/jeanpierrecaleb/assignments/tree/main/S3-terraform_group5_vividart-me) for automating server provisioning and application deployment.
+- **Project 3**: Developed a [Terraform script](https://github.com/jeanpierrecaleb/assignments/tree/main/S3-terraform_group5_vividart-me) for automating server provisioning and application deployment
 - **Project 4** : A simple Chat bot using EC2 and DynamoDB on AWS
-- **Project 5** : A (Dockerised website)[https://github.com/jeanpierrecaleb/azubi-training/tree/main/docker-web] deployed on dockerhub
+- **Project 5** : A [Dockerised website](https://github.com/jeanpierrecaleb/azubi-training/tree/main/docker-web) deployed on dockerhub to ensure consistent deployment across multiple environments
 
 ### Programming and Web development
 - **Project 6**: Simple [Stock Management](https://github.com/jeanpierrecaleb/JavaStockLabo) in Java SE
