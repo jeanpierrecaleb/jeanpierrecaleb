@@ -7,7 +7,7 @@
 - 📫 You can reach out to me via email or on LinkedIn 👇 down in the contact section 
 
 ## Projects
-### Server Configuration and Optimization
+### Server Configuration and Management
 - **Project 1**: Set up a [windows server environment](https://github.com/jeanpierrecaleb/my-lab-projects/tree/main/lab-domain-controller-dns-active-directory-dhcp) like in a entreprise using DHCP, DNS, Active Directory, User account, etc.
 - **Project 2**: Implemented [automated backup solutions](https://github.com/jeanpierrecaleb/my-lab-projects/tree/main/linux-rsync-cron-for-backup) using rsync and cron jobs to ensure data integrity and disaster recovery.
 
