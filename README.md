@@ -2,22 +2,24 @@
 # Hello 👋, I'm Jean-Pierre
 - 😐 Welcome to my portfolio! I am a passionate an IT Support Engineer and system administrator with expertise in managing and optimizing IT infrastructure.
 - 🛠️ My experience includes a wide range of systems and technologies, from Windows and Linux server administration to network configuration and troubleshooting.
-- 🌱 I’m currently learning Cloud Engineering and Web Development
+- 🌱 I did some Web development projects and I’m currently learning Cloud Engineering
 - 📖 Google, Compia and AWS certified, I love learning new technologies and staying updated
 - 📫 You can reach out to me via email or on LinkedIn 👇 down in the contact section 
 
 ## Projects
 ### Server Configuration and Optimization
 - **Project 1**: Set up a [windows server environment](https://github.com/jeanpierrecaleb/my-lab-projects/tree/main/lab-domain-controller-dns-active-directory-dhcp) like in a entreprise using DHCP, DNS, Active Directory, User account, etc.
-- **Project 2**: Implemented automated backup solutions using rsync and cron jobs to ensure data integrity and disaster recovery.
+- **Project 2**: Implemented [automated backup solutions](https://github.com/jeanpierrecaleb/my-lab-projects/tree/main/linux-rsync-cron-for-backup) using rsync and cron jobs to ensure data integrity and disaster recovery.
 
 ### Infrastructure and Cloud
-- **Project 3**: Developed Terraform script for automating server provisioning and configuration management tasks.
+- **Project 3**: Developed [Terraform script](https://github.com/jeanpierrecaleb/assignments/tree/main/S3-terraform_group5_vividart-me) for automating server provisioning and application deployment.
 - **Project 4** : A simple Chat bot using EC2 and DynamoDB on AWS
 
-### Web development
-- **Project 5**: A corpus management system for machine translation
-- **Project 6**: An equipment management platform
+### Programming and Web development
+- **Project 5**: Store [products statistics](https://github.com/jeanpierrecaleb/azubi-training/blob/main/products-customers.py) calculation
+- **Project 6**: Simple [Stock Management](https://github.com/jeanpierrecaleb/JavaStockLabo) in Java SE
+- **Project 7**: A corpus management system for machine translation
+- **Project 8**: An equipment management platform
 
 
 <!--
