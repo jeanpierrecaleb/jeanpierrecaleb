@@ -48,7 +48,7 @@
 - Google IT Support Professional
 - CCNA1 Course completion
 - Systems Administration from Digital Nigeria
-- and many more in this section of my [LinkedIn](https://www.linkedin.com/in/jeanpierregbedjissi) profile
+- and many more in this [section](https://www.linkedin.com/in/jeanpierregbedjissi/details/certifications/) of my LinkedIn profile
 
 ## Contact
 Feel free to reach out to me via email or connect with me on [LinkedIn](https://www.linkedin.com/in/jeanpierregbedjissi)
