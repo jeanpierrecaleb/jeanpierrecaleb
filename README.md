@@ -41,7 +41,7 @@
 - **Web Server and databases**: Apache, MySQL, PostgreSQL, Docker
 - **Networking**: TCP/IP, DNS, DHCP, Powershell, Directory, Active Directory, Subnetting
 - **Programming Language** : HTML, CSS, PHP, Laravel, Python
-- **Softwares** : Microsoft Office, Latex, VirtualBox, Vmware, Packet Tracer, TeamViewer, Putty, Git
+- **Softwares** : Microsoft Office, Latex, VirtualBox, Vmware, Packet Tracer, TeamViewer, Git, Putty
   
 ## Certifications
 - Comptia A+
