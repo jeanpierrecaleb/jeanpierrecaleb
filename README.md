@@ -26,7 +26,9 @@
 - **Project 8**: A corpus management system for machine translation
 - **Project 9**: [Store sales](https://github.com/jeanpierrecaleb/azubi-training/blob/main/products-customers.py) calculation in Python
 - **Project 10**: A student attendance and notes management application
-- and much more ...
+- and much more, not yet here ...
+
+  
 <!--
 - **Project 4**: Implemented monitoring solutions with Nagios and Prometheus to detect and respond to system issues proactively.
 ### Security Hardening
