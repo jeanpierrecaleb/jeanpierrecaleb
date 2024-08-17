@@ -15,10 +15,11 @@
 - **Activity 1**: Set up a SOHO lab using packet tracer exploring DHCP, NAT, Routers, Switches, etc.
 - **Activity 2**: Simple entreprise network infrastructure demonstrating subnetting and routing
 
-### Infrastructure and Cloud
+### Infrastructure, Cloud and DevOps
 - **Project 3**: Developed a [Terraform script](https://github.com/jeanpierrecaleb/assignments/tree/main/S3-terraform_group5_vividart-me) for automating server provisioning and application deployment
 - **Project 4** : A simple Chat bot using EC2 and DynamoDB on AWS
-- **Project 5** : A [Dockerised website](https://github.com/jeanpierrecaleb/azubi-training/tree/main/docker-web) deployed on dockerhub to ensure consistent deployment across multiple environments
+- **Project 5** : A CI/CD pipeline using Terraform, Jenkins, Ansible, python and Docker
+- **Project 6** : A [Dockerised website](https://github.com/jeanpierrecaleb/azubi-training/tree/main/docker-web) deployed on dockerhub to ensure consistent deployment across multiple environments
 
 ### Programming and Web development
 - **Project 6**: Simple [Stock Management](https://github.com/jeanpierrecaleb/JavaStockLabo) in Java SE
