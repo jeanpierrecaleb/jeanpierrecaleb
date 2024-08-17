@@ -14,6 +14,7 @@
 ### Network and support activities
 - **Activity 1**: Set up a SOHO lab using packet tracer exploring DHCP, NAT, Routers, Switches, etc.
 - **Activity 2**: Simple entreprise network infrastructure demonstrating subnetting and routing
+- **Activity 2**: Configuration of Nagios to monitor Virtual Machines.
 
 ### Infrastructure, Cloud and DevOps
 - **Project 3**: Developed a [Terraform script](https://github.com/jeanpierrecaleb/assignments/tree/main/S3-terraform_group5_vividart-me) for automating server provisioning and application deployment
@@ -22,11 +23,11 @@
 - **Project 6** : A [Dockerised website](https://github.com/jeanpierrecaleb/azubi-training/tree/main/docker-web) deployed on dockerhub to ensure consistent deployment across multiple environments
 
 ### Programming and Web development
-- **Project 6**: Simple [Stock Management](https://github.com/jeanpierrecaleb/JavaStockLabo) in Java SE
-- **Project 7**: An equipment management platform
-- **Project 8**: A corpus management system for machine translation
-- **Project 9**: [Store sales](https://github.com/jeanpierrecaleb/azubi-training/blob/main/products-customers.py) calculation in Python
-- **Project 10**: A student attendance and notes management application
+- **Project 7**: Simple [Stock Management](https://github.com/jeanpierrecaleb/JavaStockLabo) in Java SE
+- **Project 8**: An equipment management platform
+- **Project 9**: A corpus management system for machine translation
+- **Project 10**: [Store sales](https://github.com/jeanpierrecaleb/azubi-training/blob/main/products-customers.py) calculation in Python
+- **Project 11**: A student attendance and notes management application
 - and much more, not yet here ...
 
   
